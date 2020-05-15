@@ -24,8 +24,9 @@ a:hover img {
 }
 
 body {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Palatino;
   margin: 0px;
+  background-color: aliceblue;
 }
 
 h1 {
