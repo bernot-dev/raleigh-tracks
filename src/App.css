@@ -19,7 +19,6 @@ nav {
   position: sticky;
   top: 0;
   background-color: lightgoldenrodyellow;
-  padding: 6px;
   margin: 0px;
 }
 
@@ -28,12 +27,14 @@ nav ul {
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   justify-items: center;
   text-align: center;
+  margin: 0;
 }
 
 nav li {
   display: inline-block;
   list-style: none;
   line-height: 2em;
+  padding: 1em;
 }
 
 section {
