@@ -8,8 +8,8 @@
 <rect class="lane2" x="7.32" y="7.32" width="77.23" height="52.22" rx="26.11" fill="var(--even-color)" stroke="var(--line-color)" stroke-width="0.1" />
 <rect class="lane1" x="8.54" y="8.54" width="74.79" height="49.78" rx="24.89" fill="var(--odd-color)" stroke="var(--line-color)" stroke-width="0.1" />
 <rect class="infield" x="9.76" y="9.76" width="72.35" height="47.34" rx="23.67" fill="var(--infield-color)" stroke="var(--line-color)" stroke-width="0.1" />
-<text x="45.985" y="26" style="font-size: 8; text-anchor: middle; white-space: pre-line;">Open
-Raleigh
-Tracks</text>
+<text x="45.985" y="25" style="font-size: 8; text-anchor: middle;">Open</text>
+<text x="45.985" y="35" style="font-size: 8; text-anchor: middle;">Raleigh</text>
+<text x="45.985" y="45" style="font-size: 8; text-anchor: middle;">Tracks</text>
 <text x="45.985" y="56" style="font-size: 2; text-anchor: middle;">raleigh-tracks.bernot.dev</text>
 </svg>
