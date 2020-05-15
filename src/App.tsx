@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {ReactComponent as TrackSVG} from './track-svg/track.svg';
+import Track from './track/Track';
 
 function App() {
   return (
@@ -16,8 +16,8 @@ function App() {
         </ul>
       </nav>
       <header className="header">
-        <figure style={{margin: "auto", width: "80%"}}>
-          <TrackSVG />
+        <figure style={{margin: "auto", padding: "2em", width: "50vw"}}>
+          <Track />
         </figure>
       </header>
       <section id="about">

@@ -1,0 +1,15 @@
+<svg class="track" viewBox="0 0 176.91 92.52" xmlns="http://www.w3.org/2000/svg">
+<rect class="lane8" x="0" y="0" width="176.91" height="92.52" rx="46.26" fill="var(--even-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane7" x="1.22" y="1.22" width="174.47" height="90.08" rx="45.04" fill="var(--odd-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane6" x="2.44" y="2.44" width="172.03" height="87.64" rx="43.82" fill="var(--even-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane5" x="3.66" y="3.66" width="169.59" height="85.2" rx="42.6" fill="var(--odd-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane4" x="4.88" y="4.88" width="167.15" height="82.76" rx="41.38" fill="var(--even-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane3" x="6.1" y="6.1" width="164.71" height="80.32" rx="40.16" fill="var(--odd-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane2" x="7.32" y="7.32" width="162.27" height="77.88" rx="38.94" fill="var(--even-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="lane1" x="8.54" y="8.54" width="159.83" height="75.44" rx="37.72" fill="var(--odd-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<rect class="infield" x="9.76" y="9.76" width="157.39" height="73" rx="36.5" fill="var(--infield-color)" stroke="var(--line-color)" stroke-width="0.2" />
+<text x="88.455" y="32" style="text-anchor: middle; white-space: pre-line;">Open
+Raleigh
+Tracks</text>
+<text x="88.455" y="81" style="font-size: 4; text-anchor: middle;">raleigh-tracks.bernot.dev</text>
+</svg>

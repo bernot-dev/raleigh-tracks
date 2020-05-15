@@ -9,8 +9,18 @@ a {
   text-decoration: none;
 }
 
+a img {
+  border-color: var(--secondary-color);
+  border-style: solid;
+}
+
 a:hover {
   color: var(--main-color);
+}
+
+a:hover img {
+  border-color: var(--main-color);
+  border-style: solid;
 }
 
 body {
