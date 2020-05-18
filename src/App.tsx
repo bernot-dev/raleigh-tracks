@@ -46,7 +46,12 @@ function App() {
       </section>
       <section id="involve">
         <h2>Get Involved</h2>
-        <div>Stay tuned for ways to get involved.</div>
+        <h3>Facebook</h3>
+        <a href="https://www.facebook.com/raleightracks/">
+          <img className="find-on-facebook" alt="Find us on Facebook" src="find-on-facebook.png" />
+        </a>
+        <h3>Additional Opportunities</h3>
+        <div>Want to help? Send us a message on Facebook, or using the contact information below. We would be glad to have your assistance!</div>
       </section>
       <section id="contact">
         <h2>Contact</h2>
